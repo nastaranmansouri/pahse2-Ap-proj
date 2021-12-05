@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1638712885 source:c:\users\dear user\desktop\phase2-ap-9612358041\main.cpp
+	<iostream>
+	<string>
+	"Tailor.h"
+	"Color.h"
+	"Design.h"
+
+1638712721 c:\users\dear user\desktop\phase2-ap-9612358041\include\tailor.h
+	<iostream>
+	<string>
+
+1638712666 c:\users\dear user\desktop\phase2-ap-9612358041\include\color.h
+	<iostream>
+	<string>
+
+1638712689 c:\users\dear user\desktop\phase2-ap-9612358041\include\design.h
+	<iostream>
+	<string>
+
+1638712823 source:c:\users\dear user\desktop\phase2-ap-9612358041\src\color.cpp
+	<iostream>
+	<string>
+	"Color.h"
+
+1638712839 source:c:\users\dear user\desktop\phase2-ap-9612358041\src\design.cpp
+	<iostream>
+	<string>
+	"Design.h"
+
+1638713090 source:c:\users\dear user\desktop\phase2-ap-9612358041\src\manto.cpp
+	<iostream>
+	"Design.h"
+	"Manto.h"
+
+1638712938 c:\users\dear user\desktop\phase2-ap-9612358041\include\manto.h
+	<iostream>
+	"Design.h"
+
+1638712859 source:c:\users\dear user\desktop\phase2-ap-9612358041\src\tailor.cpp
+	"Tailor.h"
+	<iostream>
+	<string>
+
